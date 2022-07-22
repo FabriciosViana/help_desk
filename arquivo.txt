@@ -1,0 +1,4 @@
+Notebook não liga#Hardware#BLALBA
+Erro de impressão#Hardware#erro de impressão
+Telefone nao funciona#Rede#nao funciona
+Programa não abre#Software#Dou 2 cliques no programa mas ele não carrega
